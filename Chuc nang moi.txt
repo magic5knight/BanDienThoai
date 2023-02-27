@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Nhóm 9
 20DH112036	Nguyễn Anh Khoa
 20DH111916	Nguyễn Ngọc Anh
@@ -12,3 +13,6 @@ Bùi Thị Hồng Đào
 Cao Huy Tâm
 Nguyễn Lê Duy Minh
 Đậu Ngọc Anh Quân
+=======
+Nhom 7
+>>>>>>> fa36e20e85e8fc9d8cad4229e47285e1a5cf2d58
