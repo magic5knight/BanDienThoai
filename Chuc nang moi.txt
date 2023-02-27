@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //Nhóm 8
 20DH112037	Nguyễn Đăng Khoa
 20DH110741	Phan Lâm Chí Thông
@@ -8,3 +9,6 @@
 20dh111972	Hoàng Hải
 20DH110024	Hồ Duy Thông
 -----------------------------------------------
+=======
+Nhom 7
+>>>>>>> fa36e20e85e8fc9d8cad4229e47285e1a5cf2d58
