@@ -1,7 +1,5 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
 Nhóm 9
 20DH112036	Nguyễn Anh Khoa
 20DH111916	Nguyễn Ngọc Anh
@@ -16,7 +14,6 @@ Bùi Thị Hồng Đào
 Cao Huy Tâm
 Nguyễn Lê Duy Minh
 Đậu Ngọc Anh Quân
->>>>>>> 691905f1aa0265b33b6d11a7c75a5c0aeb63f653
 =======
 //Nhóm 8
 20DH112037	Nguyễn Đăng Khoa
@@ -39,10 +36,8 @@ Nhom 7
 20DH110715	Nguyễn Phạm Hữu Tài
 20DH111177	Lê Hoài Thanh Huy
 >>>>>>> fa36e20e85e8fc9d8cad4229e47285e1a5cf2d58
-Nhom 4
-Nhom 04:
-Đỗ Anh Duy - 20DH111943
-Trần Anh Khoa - 20DH110305
-Trần Triều Phát - 20DH112136
-Nguyễn Bá Thanh - 20DH111694
 
+----------------------------------------------
+Nhóm 6, em sắp hết pin rồi không ghi danh sách nha thầy
+----------------------------------------------
+Nhom 4
