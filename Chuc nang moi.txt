@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Nhóm 9
 20DH112036	Nguyễn Anh Khoa
 20DH111916	Nguyễn Ngọc Anh
@@ -7,12 +8,24 @@ Nhóm 9
 20DH110423	Phạm Thanh Trúc
 20DH110422	Dương Thái Bảo
 
-Nhóm 11
+Nhóm 11.
 Nguyễn Vũ Thành Nguyên
 Bùi Thị Hồng Đào
 Cao Huy Tâm
 Nguyễn Lê Duy Minh
 Đậu Ngọc Anh Quân
+=======
+//Nhóm 8
+20DH112037	Nguyễn Đăng Khoa
+20DH110741	Phan Lâm Chí Thông
+20DH110558	Trần Trí Trung
+20DH112265	Nguyến Tấn Thành
+20DH111483	Nguyễn Minh Thành
+20DH111635	Nguyễn Đoàn Thành Long Vũ
+20dh111972	Hoàng Hải
+20DH110024	Hồ Duy Thông
+-----------------------------------------------
+>>>>>>> 6842efdec08f0e9fabc250dcee6451e9ffea431f
 =======
 Nhom 7
 >>>>>>> fa36e20e85e8fc9d8cad4229e47285e1a5cf2d58
